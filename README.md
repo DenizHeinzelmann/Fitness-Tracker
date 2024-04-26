@@ -10,3 +10,4 @@ Database: MongoDB
 ![image](https://github.com/DenizHeinzelmann/Fitness-Tracker/assets/130756286/6862a119-60a6-4324-b459-b8c3384547c8)
 
 Rather a "Blueprint", a project that can be expanded with more functionalities.
+Workout inputs are saved, even upon refreshing Website. (Connected to MongoDB)
